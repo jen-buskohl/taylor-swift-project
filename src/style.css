@@ -25,6 +25,10 @@ body {
   grid-template-columns: 1fr 1fr 1fr;
 }
 
+.grid-header {
+  margin-bottom: 30px;
+}
+
 .card {
   background: white;
   margin: 30px 0;
