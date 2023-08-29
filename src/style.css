@@ -239,3 +239,17 @@ footer a {
     padding: 30px;
   }
 }
+
+@media (max-width: 500px) {
+  footer {
+    color: white;
+    background-image: linear-gradient(
+        rgba(39, 32, 68, 0.8),
+        rgba(39, 32, 68, 0.8)
+      ),
+      url(../images/eras-tour-small.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 25px;
+  }
+}
