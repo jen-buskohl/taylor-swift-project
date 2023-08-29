@@ -35,7 +35,12 @@ body {
 }
 
 .img-responsive {
-  max-width: 100%;
+  width: 100%;
+}
+
+.card-embed-video {
+  width: 100%;
+  aspect-ratio: 16 / 9;
 }
 
 .text-center {
